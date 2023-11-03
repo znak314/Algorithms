@@ -10,8 +10,10 @@
 /Lab 1/External Merge Sort/x64/Debug/External.9c53ae62.tlog
 /Lab 1/External Merge Sort/x64/Debug
 /Lab 1/src/.vs/External Merge Sort
-/Lab 1/src
-/Lab 1/External Merge Sort/External Merge Sort.vcxproj.filters
-/Lab 1/External Merge Sort/External Merge Sort.sln
-/Lab 1/External Merge Sort/External Merge Sort.vcxproj
-/Lab 1/External Merge Sort/External Merge Sort.vcxproj.user
+
+/Lab 1/src/x64/Debug/External.9c53ae62.tlog
+/Lab 1/src/x64/Debug
+*.sln
+*.vcxproj
+*.filters
+*.user
